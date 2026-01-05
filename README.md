@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Nikita 👋
 
-<!--
-**NikitosII/NikitosII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building practical solutions and exploring diverse technologies. My projects span multiple domains, from web development and desktop applications to data analysis and systems programming. I enjoy tackling complex problems and continuously expanding my skill set to stay at the forefront of technology.
 
-Here are some ideas to get you started:
+## My Development Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Language       | Environments/Frameworks           | Applications                          |
+ |----------------|----------------------------------|-------------------------------------|
+ | C#             | .NET Core, .NET Framework     | Backend services, WPF applications   |
+ | JavaScript     | React, Vue.js, Node.js  | Frontend, real-time applications    |
+ | C              |  Visual Studio        | Systems programming, embedded environments  |
+ | C++            |  Visual Studio        | General-purpose and performance-focused applications    |
+ | Python         | Jupyter Notebooks, Flask, Django | Data analysis, machine learning      |
+ | HTML & CSS     | Electron, Tailwind CSS            | Web development, desktop apps        |
+
